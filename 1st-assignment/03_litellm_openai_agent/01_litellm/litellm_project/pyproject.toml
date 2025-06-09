@@ -1,0 +1,23 @@
+[project]
+name = "litellm-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Shahid Ali", email = "153486921+shahidali54@users.noreply.github.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "litellm>=1.72.2",
+    "python-dotenv>=1.1.0",
+]
+
+[project.scripts]
+litellm-project = "litellm_project:main"
+openai_func = "litellm_project.hello:openai"
+gemini = "litellm_project.hello:gemini"
+gemini2 = "litellm_project.hello:gemini2"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
