@@ -38,7 +38,7 @@ This project adopts a modular multi-agent design inspired by the **4 Pillars of 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/multi-agent-gemini.git
+git clone https://github.com/shahidali54/openai-agent-sdk.git
 cd multi-agent-gemini
 ```
 
@@ -74,6 +74,13 @@ Each agent is designed using a custom `Agent` class. Tasks are modularized, and 
 
 All API keys are loaded via `.env` using `python-dotenv` to ensure no secrets are exposed in code.
 
-## 📄 License
+## 👨‍💻 Author
 
-MIT License
+-  **Shahid Ali**
+- A passionate full-stack developer and learner at **PIAIC** & **GIAIC**
+  Feel free to connect or reach out for collaboration!
+
+---
+
+
+**Happy Coding!** 😎
