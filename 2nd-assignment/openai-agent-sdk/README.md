@@ -39,7 +39,7 @@ This project adopts a modular multi-agent design inspired by the **4 Pillars of 
 
 ```bash
 git clone https://github.com/shahidali54/openai-agent-sdk.git
-cd multi-agent-gemini
+cd openai-agent-sdk
 ```
 
 ### 2. Create `.env` File
