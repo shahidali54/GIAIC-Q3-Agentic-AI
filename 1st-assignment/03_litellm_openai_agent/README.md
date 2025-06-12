@@ -86,3 +86,5 @@ Gentle breeze abounds.
 - The `get_weather` function is a placeholder. Replace it with a real API call (e.g., OpenWeatherMap) for production use.
 - The notebook disables tracing (`set_tracing_disabled(True)`) to simplify output. Enable tracing for debugging if needed.
 - Ensure your API key is securely stored and not hardcoded in production environments.
+
+- 
