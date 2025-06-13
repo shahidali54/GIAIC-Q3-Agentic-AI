@@ -275,6 +275,7 @@ async def run(starting_agent: Agent, input: str, context=None):
 
 ### Phase 2: The Main Loop
 
+
 The heart of the system is an intelligent loop that continues until completion:
 
 ```python
