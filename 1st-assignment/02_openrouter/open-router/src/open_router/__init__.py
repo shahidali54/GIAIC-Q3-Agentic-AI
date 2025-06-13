@@ -31,3 +31,4 @@ def main() -> None:
 
     except Exception as e:
         print(f"❌ Error calling OpenRouter API: {e}")
+
