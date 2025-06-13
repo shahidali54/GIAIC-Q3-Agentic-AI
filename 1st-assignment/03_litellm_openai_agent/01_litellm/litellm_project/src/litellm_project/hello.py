@@ -38,3 +38,4 @@ def gemini2():
         print("✅ Gemini 2.0 Response:", response['choices'][0]['message']['content'])
     except Exception as e:
         print("⚠️ Gemini 2.0 Error:", e)
+
