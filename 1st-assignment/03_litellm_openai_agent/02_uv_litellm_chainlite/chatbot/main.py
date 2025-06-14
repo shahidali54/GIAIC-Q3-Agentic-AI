@@ -75,5 +75,3 @@ async def on_chat_end():
     with open("chat_history.json", "w") as f:
         json.dump(history, f, indent=2)
     print("Chat history saved.")
-
-# Optionally, you can send a final message to the user
