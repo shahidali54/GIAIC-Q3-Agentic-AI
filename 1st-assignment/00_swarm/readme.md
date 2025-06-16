@@ -45,3 +45,4 @@ In this design, an orchestrator agent decomposes a complex task into smaller sub
 This pattern involves iterative improvement through feedback loops, where an evaluator agent assesses the performance of other agents and suggests optimizations. The Agents SDK's guardrails feature enables the implementation of such evaluative mechanisms, allowing for continuous performance enhancement and adherence to desired behaviors. 
 
 By leveraging the OpenAI Agents SDK, developers can effectively implement these design patterns, as outlined by Anthropic, to build robust and efficient AI agent systems.
+
