@@ -1333,5 +1333,4 @@ The OpenAI Agents SDK democratizes advanced AI application development, making i
 
 Remember: the best way to truly understand these concepts is to build with them. Start with the examples in this guide, experiment with different patterns, and gradually increase complexity as you become more comfortable with the framework.
 
-Happy building! 🚀
-
+Happy building! 🚀 
