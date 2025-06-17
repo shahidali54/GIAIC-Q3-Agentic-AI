@@ -30,4 +30,4 @@ def main() -> None:
         print(response.choices[0].message.content)
 
     except Exception as e:
-        print(f"❌ Error calling OpenRouter API: {e}") 
+        print(f"❌ Error calling OpenRouter API: {e}")
