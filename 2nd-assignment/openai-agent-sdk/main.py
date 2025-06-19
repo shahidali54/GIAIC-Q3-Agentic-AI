@@ -77,4 +77,4 @@ prompt_value = input("Enter a prompt for the coordinator agent: ")
 agent_result = Runner.run_sync(coordinator_agent, prompt_value)
 
 # Print the result
-print(f"\nAgent Result: {agent_result.final_output}")
+print(f"\nAgent Result: {agent_result.final_output}") 
