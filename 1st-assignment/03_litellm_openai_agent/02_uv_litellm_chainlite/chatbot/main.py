@@ -74,4 +74,4 @@ async def on_chat_end():
     # Save the chat history to a file (or persist it elsewhere)
     with open("chat_history.json", "w") as f:
         json.dump(history, f, indent=2)
-    print("Chat history saved.") 
+    print("Chat history saved.")
